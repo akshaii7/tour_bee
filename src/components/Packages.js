@@ -5,7 +5,7 @@ import { MapPin, Clock, MessageCircle, Star } from "lucide-react";
 const packages = [
   {
     title: "Varkala Beach Escape",
-    image: "/images/varkala.jpg",
+    image: "/tour_bee/images/varkala.jpg",
     duration: "2 Days / 1 Night",
     location: "Varkala, Kerala",
     desc: "Enjoy the beautiful cliff views, beach sunset, and peaceful coastal vibes of Varkala.",
@@ -13,7 +13,7 @@ const packages = [
   },
   {
     title: "Munnar Misty Hills",
-    image: "/images/munnar.jpg",
+    image: "/tour_bee/images/munnar.jpg",
     duration: "2 Days / 1 Night",
     location: "Munnar, Kerala",
     desc: "Explore tea gardens, cool mountain weather, viewpoints, and nature beauty in Munnar.",
@@ -21,7 +21,7 @@ const packages = [
   },
   {
     title: "Kanyakumari Sunrise Trip",
-    image: "/images/kanyakumari-sunrise.png",
+    image: "/tour_bee/images/kanyakumari-sunrise.png",
     duration: "2 Days / 1 Night",
     location: "Kanyakumari, Tamil Nadu",
     desc: "Visit the southern tip of India, sunrise point, Vivekananda Rock, and beach views.",
