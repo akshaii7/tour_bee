@@ -15,7 +15,7 @@ const CTA = () => {
           {/* Background image overlay */}
           <div 
             className="absolute inset-0 opacity-20 bg-cover bg-center"
-            style={{ backgroundImage: "url('/images/hero.png')" }}
+            style={{ backgroundImage: `url('${process.env.NEXT_PUBLIC_BASE_PATH || ''}/images/hero.png')` }}
           ></div>
           <div className="absolute inset-0 bg-gradient-to-b from-dark via-dark to-transparent opacity-80"></div>
 
