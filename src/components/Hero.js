@@ -64,7 +64,7 @@ const Hero = () => {
           >
             <div className="absolute inset-0 z-10 bg-gradient-to-r from-white via-white/20 to-transparent hidden lg:block"></div>
             <img 
-              src="/tour_bee/images/vehicle.png" 
+              src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/images/vehicle.png`} 
               alt="Premium Taxi Kerala" 
               className="w-full h-full object-cover rounded-[2rem] sm:rounded-[3rem] shadow-2xl"
             />

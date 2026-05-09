@@ -16,7 +16,7 @@ const UniqueFeature = () => {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <img 
-                src="/tour_bee/images/feature.png" 
+                src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/images/feature.png`} 
                 alt="Driver acting as photographer" 
                 className="w-full h-auto object-cover transform hover:scale-105 transition-transform duration-700"
               />

@@ -32,7 +32,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center">
           <div className="flex-shrink-0 flex items-center">
-            <img src="/tour_bee/logo.png" alt="Tour Bee Logo" className="h-16 md:h-24 w-auto transition-all duration-300" />
+            <img src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/logo.png`} alt="Tour Bee Logo" className="h-16 md:h-24 w-auto transition-all duration-300" />
           </div>
 
           {/* Desktop Menu */}
