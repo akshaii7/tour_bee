@@ -1,0 +1,14 @@
+1:"$Sreact.fragment"
+2:I[90468,["/tour_bee/_next/static/chunks/0fsi8lw5utejl.js","/tour_bee/_next/static/chunks/0d3tkj33oycf2.js","/tour_bee/_next/static/chunks/13opeyyi20yrp.js"],"default"]
+3:I[36858,["/tour_bee/_next/static/chunks/0fsi8lw5utejl.js","/tour_bee/_next/static/chunks/0d3tkj33oycf2.js","/tour_bee/_next/static/chunks/13opeyyi20yrp.js"],"default"]
+4:I[91146,["/tour_bee/_next/static/chunks/0fsi8lw5utejl.js","/tour_bee/_next/static/chunks/0d3tkj33oycf2.js","/tour_bee/_next/static/chunks/13opeyyi20yrp.js"],"default"]
+5:I[39570,["/tour_bee/_next/static/chunks/0fsi8lw5utejl.js","/tour_bee/_next/static/chunks/0d3tkj33oycf2.js","/tour_bee/_next/static/chunks/13opeyyi20yrp.js"],"default"]
+6:I[45727,["/tour_bee/_next/static/chunks/0fsi8lw5utejl.js","/tour_bee/_next/static/chunks/0d3tkj33oycf2.js","/tour_bee/_next/static/chunks/13opeyyi20yrp.js"],"default"]
+7:I[13612,["/tour_bee/_next/static/chunks/0fsi8lw5utejl.js","/tour_bee/_next/static/chunks/0d3tkj33oycf2.js","/tour_bee/_next/static/chunks/13opeyyi20yrp.js"],"default"]
+8:I[41020,["/tour_bee/_next/static/chunks/0fsi8lw5utejl.js","/tour_bee/_next/static/chunks/0d3tkj33oycf2.js","/tour_bee/_next/static/chunks/13opeyyi20yrp.js"],"default"]
+9:I[91389,["/tour_bee/_next/static/chunks/0fsi8lw5utejl.js","/tour_bee/_next/static/chunks/0d3tkj33oycf2.js","/tour_bee/_next/static/chunks/13opeyyi20yrp.js"],"default"]
+a:I[40238,["/tour_bee/_next/static/chunks/0fsi8lw5utejl.js","/tour_bee/_next/static/chunks/0d3tkj33oycf2.js","/tour_bee/_next/static/chunks/13opeyyi20yrp.js"],"default"]
+b:I[97367,["/tour_bee/_next/static/chunks/0fsi8lw5utejl.js","/tour_bee/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-white","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}]]}],[["$","script","script-0",{"src":"/tour_bee/_next/static/chunks/13opeyyi20yrp.js","async":true}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XjVxa8LMVPJ9UjQ3HaFf4"}
+d:null
