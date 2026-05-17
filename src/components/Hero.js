@@ -11,9 +11,9 @@ const Hero = () => {
   ];
 
   return (
-    <section id="home" className="relative min-h-screen bg-white pt-20 overflow-hidden">
+    <section id="home" className="relative h-auto bg-white pt-20 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full">
-        <div className="flex flex-col lg:flex-row items-center justify-between py-20 gap-12">
+        <div className="flex flex-col lg:flex-row items-center justify-between py-10 lg:py-12 gap-12">
           {/* Left Content */}
           <motion.div
             initial={{ opacity: 0, x: -30 }}
@@ -72,7 +72,7 @@ const Hero = () => {
         </div>
 
         {/* Highlights (Mobile) */}
-        <div className="lg:hidden grid grid-cols-2 gap-8 pb-20">
+        <div className="lg:hidden grid grid-cols-2 gap-8 pb-12">
           {highlights.map((h, i) => (
             <div key={i} className="text-center flex flex-col items-center">
               <div className="mb-4">{h.icon}</div>
